@@ -8,6 +8,7 @@
 | [0047-permutations-ii](https://github.com/ajay3750/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
@@ -23,6 +24,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ajay3750/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
