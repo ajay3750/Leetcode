@@ -7,6 +7,7 @@
 | [0046-permutations](https://github.com/ajay3750/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ajay3750/Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
@@ -48,4 +49,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
