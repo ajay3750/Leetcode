@@ -38,9 +38,14 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ajay3750/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
