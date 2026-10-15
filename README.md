@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay3750/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Backtracking
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ajay3750/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay3750/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +68,12 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/ajay3750/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay3750/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ajay3750/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
