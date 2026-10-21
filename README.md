@@ -63,6 +63,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/ajay3750/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
 |  |
 | ------- |
