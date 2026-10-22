@@ -135,4 +135,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/ajay3750/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/ajay3750/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
