@@ -67,6 +67,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ajay3750/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
 ## Matrix
 |  |
@@ -129,4 +130,8 @@
 |  |
 | ------- |
 | [3886-sum-of-sortable-integers](https://github.com/ajay3750/Leetcode/tree/master/3886-sum-of-sortable-integers) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/ajay3750/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
