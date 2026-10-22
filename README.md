@@ -145,6 +145,7 @@
 | [0620-not-boring-movies](https://github.com/ajay3750/Leetcode/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/ajay3750/Leetcode/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/ajay3750/Leetcode/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/ajay3750/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1280-students-and-examinations](https://github.com/ajay3750/Leetcode/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/ajay3750/Leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/ajay3750/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
