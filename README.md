@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
+| [1768-merge-strings-alternately](https://github.com/ajay3750/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ajay3750/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
 |  |
@@ -154,4 +155,8 @@
 | [1484-group-sold-products-by-the-date](https://github.com/ajay3750/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ajay3750/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/ajay3750/Leetcode/tree/master/1633-percentage-of-users-attended-a-contest) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/ajay3750/Leetcode/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
