@@ -68,6 +68,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ajay3750/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajay3750/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ajay3750/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ajay3750/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -163,6 +164,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ajay3750/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/ajay3750/Leetcode/tree/master/1768-merge-strings-alternately) |
 ## Euclidean Algorithm
 |  |
