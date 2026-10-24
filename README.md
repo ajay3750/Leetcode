@@ -62,6 +62,7 @@
 | [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajay3750/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2409-count-days-spent-together](https://github.com/ajay3750/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ajay3750/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/ajay3750/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## String
@@ -72,6 +73,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/ajay3750/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajay3750/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/ajay3750/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [2409-count-days-spent-together](https://github.com/ajay3750/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/ajay3750/Leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Recursion
 |  |
