@@ -11,6 +11,7 @@
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/ajay3750/Leetcode/tree/master/0605-can-place-flowers) |
+| [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajay3750/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ajay3750/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
+| [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -119,6 +121,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -192,4 +195,12 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ajay3750/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ajay3750/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
