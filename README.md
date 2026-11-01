@@ -10,6 +10,7 @@
 | [0049-group-anagrams](https://github.com/ajay3750/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ajay3750/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ajay3750/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/ajay3750/Leetcode/tree/master/0605-can-place-flowers) |
 | [1254-number-of-closed-islands](https://github.com/ajay3750/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajay3750/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ajay3750/Leetcode/tree/master/0050-powx-n) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/ajay3750/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajay3750/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ajay3750/Leetcode/tree/master/2409-count-days-spent-together) |
