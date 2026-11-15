@@ -17,6 +17,7 @@
 | [1267-count-servers-that-communicate](https://github.com/ajay3750/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ajay3750/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ajay3750/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay3750/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ajay3750/Leetcode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/ajay3750/Leetcode/tree/master/1882-process-tasks-using-servers) |
@@ -88,6 +89,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ajay3750/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ajay3750/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ajay3750/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay3750/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/ajay3750/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ajay3750/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -131,6 +133,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ajay3750/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ajay3750/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ajay3750/Leetcode/tree/master/0055-jump-game) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay3750/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ajay3750/Leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3693-climbing-stairs-ii](https://github.com/ajay3750/Leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ajay3750/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -297,5 +300,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ajay3750/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ajay3750/Leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
